@@ -7,3 +7,4 @@ let x = 5
 
 println(x, 'Hello World!')
 ```
+We have simplified programming.
