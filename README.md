@@ -3,8 +3,8 @@ A random programming language made by Placidity and hi1cooler (now 69digital).
 
 Fast and easy to write.
 ```js
-let x = 5
+let x = 5;
 
-println(x, 'Hello World!')
+println(x, 'Hello World!');
 ```
 We have simplified programming.
