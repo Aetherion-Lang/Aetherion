@@ -5,10 +5,10 @@ Fast and easy to write.
 ```js
 let x = 5;
 
-println(x, 'Hello World!'); // ln to go to new line
+println(x, ' Hello World!'); // ln to go to new line
 print('Hi Again'); // do not skip line.
 print('example'); // to test it
 
-// 5Hello World!
+// 5 Hello World!
 // Hi Againexample
 ```
