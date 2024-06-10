@@ -1,4 +1,7 @@
 # Aetherion
+## Contribute
+To contribute, simply fork the repository and send a pull request.
+<hr>
 A random programming language made by Placidity and hi1cooler (now 69digital).
 
 Fast and easy to write.
